@@ -41,6 +41,7 @@
     <Folder Include="NoRoads_WebApp\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="NoRoads_WebApp\templates\maps.html" />
     <Content Include="requirements.txt" />
     <Content Include="NoRoads_WebApp\static\content\bootstrap.css" />
     <Content Include="NoRoads_WebApp\static\content\bootstrap.min.css" />
