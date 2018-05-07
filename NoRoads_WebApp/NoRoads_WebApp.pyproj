@@ -34,6 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="NoRoads_WebApp\" />
+    <Folder Include="NoRoads_WebApp\pictures\" />
     <Folder Include="NoRoads_WebApp\static\" />
     <Folder Include="NoRoads_WebApp\static\content\" />
     <Folder Include="NoRoads_WebApp\static\fonts\" />
@@ -41,6 +42,7 @@
     <Folder Include="NoRoads_WebApp\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="NoRoads_WebApp\pictures\no_roads_logo.jpeg" />
     <Content Include="NoRoads_WebApp\templates\maps.html" />
     <Content Include="requirements.txt" />
     <Content Include="NoRoads_WebApp\static\content\bootstrap.css" />
